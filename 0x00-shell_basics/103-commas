@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p welcom/ {to, to/school}
+ls -map|sort -d
