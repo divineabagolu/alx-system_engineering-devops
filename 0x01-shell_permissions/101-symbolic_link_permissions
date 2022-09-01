@@ -1,2 +1,2 @@
 #!/bin/bash
-hown –h vincent:staff *
+hown –h vincent:staff -hello 
